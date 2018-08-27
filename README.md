@@ -1,2 +1,2 @@
-# SWIRLs_java
-A java implementation of the SWIRLs algorithm.
+# Distributed Path Planning via SWIRLs
+This repository contains a java implementation of the SWIRLs algorithm.
